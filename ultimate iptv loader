@@ -1,0 +1,10 @@
+#EXTM3U
+
+#--------" INDONESIA "--------
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/85gfZ13X/antv.png" group-title="INDONESIA",ANTV [Dens]
+#http://210.210.155.35/session/751485fe-aee3-11ea-934d-b82a72d63267/qwr9ew/s/s07/02.m3u8
+http://group2-swiftservesd-1.dens.tv/s/s07/01.m3u8
+
+#EXTINF:-1 tvg-id="indosiar" tvg-logo="https://i.postimg.cc/N0SkBqnR/indosiar.png" group-title="INDONESIA",INDOSIAR [Dens]
+#https://fikrulmkc.my.id/bagus/usee-indosiar.m3u8
