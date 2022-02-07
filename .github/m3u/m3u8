@@ -8,7 +8,7 @@
 https://rcti-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=8-mp4a_96000=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85gfZ13X/antv.png" group-title="INDONESIA",ANTV
 http://210.210.155.35/qwr9ew/s/s07/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfQYBP49/105261-logo-tvone-665-374.jpg" group-title="INDONESIA",TVONE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0xMVWXN/tv-one-streaming-television-tvone-streaming-media-tv-channel-582de8ca11c47e5841539901e1942fe9.png" group-title="INDONESIA",TVONE
 https://iptv.mwafa.net/dm/k2uDgtBgdyXR1AoH4XD/index.m3u8?token=3394
 #EXTINF:-1 tvg-id="sctv" tvg-logo="https://i.postimg.cc/wBpKv9HD/SCTV.png" group-title="INDONESIA",SCTV
 https://cmt.mb13.cyou/uni/ku/see/ucf.php?a=usee-sctv&b=14&c=sctv
@@ -56,7 +56,7 @@ https://iptv.mwafa.net/vidio/6441/index.m3u8?token=3394
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="HBOAsia.us" tvg-name="HBO" tvg-logo="https://i.postimg.cc/PxN5nLxy/95815.png" group-title="MOVIES",HBO
+#EXTINF:-1 tvg-id="HBOAsia.us" tvg-name="HBO" tvg-logo="https://i.postimg.cc/W1MS2bzc/Seek-Png-com-hbo-logo-png-2235525.png" group-title="MOVIES",HBO
 https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
