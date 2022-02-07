@@ -12,7 +12,8 @@ http://210.210.155.35/qwr9ew/s/s07/02.m3u8
 https://iptv.mwafa.net/dm/k2uDgtBgdyXR1AoH4XD/index.m3u8?token=3394
 #EXTINF:-1 tvg-id="sctv" tvg-logo="https://i.postimg.cc/wBpKv9HD/SCTV.png" group-title="INDONESIA",SCTV
 https://cmt.mb13.cyou/uni/ku/see/ucf.php?a=usee-sctv&b=14&c=sctv
-http://210.210.155.35/qwr9ew/s/s03/01.m3u8 http://group2-swiftservesd-1.dens.tv/s/s03/01.m3u8
+http://210.210.155.35/qwr9ew/s/s03/01.m3u8
+http://group2-swiftservesd-1.dens.tv/s/s03/01.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.kibrispdr.org/data/logo-trans-tv-png-2.png" group-title="INDONESIA",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="INDONESIA",TRANS 7
