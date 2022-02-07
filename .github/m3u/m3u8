@@ -14,11 +14,11 @@ https://iptv.mwafa.net/dm/k2uDgtBgdyXR1AoH4XD/index.m3u8?token=3394
 https://cmt.mb13.cyou/uni/ku/see/ucf.php?a=usee-sctv&b=14&c=sctv
 http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 http://group2-swiftservesd-1.dens.tv/s/s03/01.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.kibrispdr.org/data/logo-trans-tv-png-2.png" group-title="INDONESIA",TRANS TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/764kPfm0/Trans-tv-1575255.png" group-title="INDONESIA",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/trans7.png" group-title="INDONESIA",TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="bioskopindonesia" tvg-logo="https://i.postimg.cc/d3fZS49r/logo-bioskopindonesia-big1.png" group-title="INDONESIA",Bioskop Indonesia
+#EXTINF:-1 tvg-id="bioskopindonesia" tvg-logo="https://i.postimg.cc/Gpr7HGnL/Bioskop-ind.png" group-title="INDONESIA",Bioskop Indonesia
 #https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==bioskopindonesia&b=14&c=bioskopindonesia #https://radenroro.net/RHS/homempd.m3u8?channel=bioskopindonesia 
 #http://bonev2.xyz/playlist/usee-bioskopindonesia-new-bonetv.m3u8 #https://mkctvbro.my.id/horas/pakailah.m3u8?id=bioskopindonesia&bandwidth=default&sync=0
 #https://lnk.ec/bioskopIndo?shareext.ts
@@ -45,7 +45,7 @@ https://rcti-linier.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800
 https://rcti-linier.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NG7pqNFz/1200px-CNN-Indonesia-svg.png" group-title="INDONESIA",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1f5Yhzp/14040323.png" group-title="INDONESIA",BERITASATU
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4hDmfvX/images-4.png" group-title="INDONESIA",BERITASATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4yb66Kx1/kompas-tv.png" group-title="INDONESIA",KOMPAS TV
 https://iptv.mwafa.net/vidio/874/index.m3u8?token=3394
@@ -66,12 +66,12 @@ https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="HBOHits.us" tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/pQW1JcG/xyfs.png" group-title="MOVIES",HBO Hits
+#EXTINF:-1 tvg-id="HBOHits.us" tvg-name="HBO Hits" tvg-logo="https://i.postimg.cc/qBYJfM2B/images-2.png" group-title="MOVIES",HBO Hits
 https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="HBOSignatureAsia.us" tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/zX9LRZd/BDZ.png" group-title="MOVIES",HBO Signature HD
+#EXTINF:-1 tvg-id="HBOSignatureAsia.us" tvg-name="HBO Signature" tvg-logo="https://i.postimg.cc/sDmRjjhZ/images-3.png" group-title="MOVIES",HBO Signature HD
 https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
